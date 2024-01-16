@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/main.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/main.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/main.cpp",
+  "output": "CMakeFiles/HLSParser.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/StreamINF.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/StreamINF.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/StreamINF.cpp",
+  "output": "CMakeFiles/HLSParser.dir/StreamINF.cpp.o"
+},
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/HLSParser.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/HLSParser.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/HLSParser.cpp",
+  "output": "CMakeFiles/HLSParser.dir/HLSParser.cpp.o"
+},
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/HLSPlaylist.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/HLSPlaylist.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/HLSPlaylist.cpp",
+  "output": "CMakeFiles/HLSParser.dir/HLSPlaylist.cpp.o"
+},
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/Media.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/Media.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/Media.cpp",
+  "output": "CMakeFiles/HLSParser.dir/Media.cpp.o"
+},
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/IFrame.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/IFrame.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/IFrame.cpp",
+  "output": "CMakeFiles/HLSParser.dir/IFrame.cpp.o"
+},
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/HLSPlaylistSorter.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/HLSPlaylistSorter.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/HLSPlaylistSorter.cpp",
+  "output": "CMakeFiles/HLSParser.dir/HLSPlaylistSorter.cpp.o"
+},
+{
+  "directory": "/Users/SULST002/CLionProjects/HLSParser/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCURL_STATICLIB -isystem /Users/SULST002/.vcpkg-clion/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics -o CMakeFiles/HLSParser.dir/HLSPlaylistFetcher.cpp.o -c /Users/SULST002/CLionProjects/HLSParser/HLSPlaylistFetcher.cpp",
+  "file": "/Users/SULST002/CLionProjects/HLSParser/HLSPlaylistFetcher.cpp",
+  "output": "CMakeFiles/HLSParser.dir/HLSPlaylistFetcher.cpp.o"
+}
+]
